@@ -6,7 +6,7 @@ import (
 	"os/exec"
 	"strings"
 
-	"github.com/metaleap/go-util/dev/go"
+	"github.com/ralihachev/go-util/dev/go"
 
 	xsd "github.com/metaleap/go-xsd"
 )
