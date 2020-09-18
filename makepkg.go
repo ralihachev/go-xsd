@@ -5,9 +5,9 @@ import (
 	"path"
 	"strings"
 
-	"github.com/ralihachev/go-util/dev/go"
-	"github.com/ralihachev/go-util/slice"
-	"github.com/ralihachev/go-util/str"
+	"github.com/metaleap/go-util/dev/go"
+	"github.com/metaleap/go-util/slice"
+	"github.com/metaleap/go-util/str"
 
 	xsdt "github.com/metaleap/go-xsd/types"
 )
