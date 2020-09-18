@@ -6,7 +6,7 @@ import (
 	"strings"
 	"unicode"
 
-	"github.com/metaleap/go-util/r"
+	"github.com/ralihachev/go-util/r"
 
 	xsdt "github.com/metaleap/go-xsd/types"
 )
